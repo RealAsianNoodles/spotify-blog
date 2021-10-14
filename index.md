@@ -1,37 +1,65 @@
-## Welcome to GitHub Pages
+# Spotify Blog
 
-You can use the [editor on GitHub](https://github.com/RealAsianNoodles/spotify-blog/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to the blog. Here I will write my notes and comments regarding the music on my Spotify account. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Mix Reference
+My [mix reference playlist](https://open.spotify.com/playlist/4WBlc9EoxXQytBFPtBShP5?si=9b498a11573d49a7) was created for purposes such as speaker system tuning, mix reference, headphone and speaker testing, and others. It is constantly updated with a wide variety of various genres of music. I have categorized some particular tracks which are of note. 
 
-### Markdown
+### By approximate genre
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Folk/Indie**
 
-```markdown
-Syntax highlighted code block
+Title: Vividly
+Artist: Tagore Chayne
+Genre: Folk
+Notes: [here](link)
 
-# Header 1
-## Header 2
-### Header 3
+Title: U (Man Like)
+Artist: Bon Iver
+Genre: Eau Claire Indie
+Notes: [here](link)
 
-- Bulleted
-- List
+**Acoustic Pop**
 
-1. Numbered
-2. List
+Title: Tenerife Sea
+Artist: Ed Sheeran
+Genre: Pop
+Notes: [here](link)
 
-**Bold** and _Italic_ and `Code` text
+Title: The War - Recorded at St. Mark’s Cathedral
+Artist: SYML
+Genre: Pop
+Notes: [here](link)
 
-[Link](url) and ![Image](src)
-```
+**Pop**
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Title: 7 Years
+Artist: Lukas Graham
+Genre: Danish Pop
+Notes: [here](link)
 
-### Jekyll Themes
+Title: Not Going Home
+Artist: Great Good Fine Ok
+Genre: Hopebeat
+Notes: [here](link)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RealAsianNoodles/spotify-blog/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Rock**
 
-### Support or Contact
+Title: I Will Remember
+Artist: TOTO
+Genre: Rock
+Notes: [here](link)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+**Electronic**
+
+Title: Kingdoms & Castles - Still Kids Remix
+Artist: Virtual Riot
+Genre: Brostep
+Notes: [here](link)
+
+**CCM (Contemporary Christian Music)**
+
+Title: Quero Conhecer Jesus - Ao Vivo
+Artist: Alessandro Vilas Boas
+Genre: Adoração
+Notes: [here](link)
